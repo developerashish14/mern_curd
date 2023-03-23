@@ -1,0 +1,7 @@
+ command create react-app  =  npx create-react-app client
+ in client = npm i bootstrap
+
+ install router = npm install --save react-router-dom
+
+
+ part 3 18:28
